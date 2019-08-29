@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'all-tasks';
+  title = 'hii i am title- ROOT exporting from app.component.ts to app.component.html';
 }
